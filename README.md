@@ -1,5 +1,5 @@
 # LeetCode 912 - Sort an Array
-# Author: Your Name - Student ID
+# Author: wilson muriithi
 
 class Solution:
     def sortArray(self, nums):
